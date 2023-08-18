@@ -1,0 +1,160 @@
+.class1{
+	height: 500px;
+	width: 1180px;
+	background-color: lightgrey;
+}
+.class2{
+	height: 400px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	border-radius: 30px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+.class3{
+	height: 400px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	border-radius: 30px;
+	margin-top: 50px;
+	margin-left: 25px;
+}
+.class4{
+	height: 400px;
+	width: 350px;
+	background-color: white;
+	float: left;
+	border-radius: 30px;
+	margin-top: 50px;
+	margin-left: 25px;
+	margin-right: 40px;
+}
+.heading{
+	text-align: center;
+	margin-top: 15px;
+}
+.para{
+	color: grey;
+	text-align: center;
+	margin: 15px;
+}
+.division3{
+	height: 50px;
+	width: 200px;
+	background-color: blue;
+	border-radius: 50px;
+	margin: 40px;
+	margin-left: 70px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	padding-top: 14px;
+	box-sizing: border-box;
+
+
+}
+.hori1{
+	width: 300px;
+	border: solid blue 1px;
+	border-radius: 3px;
+}
+.heading1{
+	text-align: center;
+	margin-top: 15px;
+}
+.para2{
+	color: grey;
+	text-align: center;
+	margin: 15px;
+}
+.hori2{
+	width: 300px;
+	border: solid blue 1px;
+	border-radius: 3px;
+}
+.division4{
+	height: 50px;
+	width: 200px;
+	background-color: blue;
+	border-radius: 50px;
+	margin: 40px;
+	margin-left: 70px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	padding-top: 14px;
+	box-sizing: border-box;
+
+
+}
+.heading2{
+	text-align: center;
+	margin-top: 15px;
+}
+.para3{
+	color: grey;
+	text-align: center;
+	margin: 15px;
+}
+.hori3{
+	width: 300px;
+	border: solid blue 1px;
+	border-radius: 3px;
+}
+.division5{
+	height: 50px;
+	width: 200px;
+	background-color: blue;
+	border-radius: 50px;
+	margin: 40px;
+	margin-left: 70px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	padding-top: 14px;
+	box-sizing: border-box;
+}
+.div1{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 130px;
+	line-height: 110px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	font-size: 70px;
+}
+.div2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	
+	line-height: 110px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	font-size: 70px;
+}
+.div3{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 130px;
+	line-height: 110px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	font-size: 70px;
+}
+i{
+	color: white;
+	}

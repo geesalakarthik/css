@@ -1,0 +1,13 @@
+.external{
+	font-size: 60px;
+	border: 20px solid red;
+	background-color:yellow;
+	font-family: sans-serif;
+}
+
+
+#css{
+	font-size: 50px;
+	font-family:monospace;
+	color:red;
+}

@@ -1,0 +1,31 @@
+/*body{
+	background-image: url("bg.jpg");
+	background-size: cover;
+}*/
+/*#boder{
+	
+			border-color: green red blue yellow;
+			border-top-style:dotted;
+			border-right-style:solid;
+			border-bottom-style:groove;
+			border-left-style:dotted;
+
+background-color:hotpink;
+border-top-style:dotted;
+border-bottom-style:dotted;
+bo
+}*/
+div{
+	height: 200px;
+	width: 500px;
+	background-color: hotpink;
+}
+.boder{
+	border-top-style:dotted;
+	border-right-style:dotted;
+			border-bottom-style:dotted;
+			border-left-style:dotted;
+			border-width: 10px;
+			width:500px;
+       border-color: red;
+}

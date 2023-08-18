@@ -1,0 +1,48 @@
+i{
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+
+.A{
+	background-color: black; 
+	width: 700px;
+	height: 350px;
+	
+}
+
+.B{
+	width: 200px;
+	height: 300px;
+	background-color:white;
+	float: left;
+	margin: 15px;
+	border-radius: 15px;
+	padding: 5px;
+	
+	
+	
+
+}
+
+.C{
+	width: 200px;
+	height: 300px;
+	background-color: white;	
+	float: left;
+	margin: 15px;
+	border-radius: 15px;
+	
+	
+}
+
+.D{
+	width: 200px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	border-radius: 15px;
+	
+	
+
+}

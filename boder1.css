@@ -1,0 +1,13 @@
+div{
+	height:200px;
+	width:600px;
+	background-color:orange;
+}
+#bg{
+	border-top-style:box-shadow;
+	border-right-style:box-shadow;
+	border-bottom-style:box-shadow;
+	border-left-style:box-shadow;
+	width:20px;
+	border-color:red; 
+}
